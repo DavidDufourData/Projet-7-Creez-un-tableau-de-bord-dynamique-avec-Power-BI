@@ -3,7 +3,7 @@
 ## Contexte et objectifs
 
 ![Logo ESN](P7_Logo_ESN.jpg)  
-Consultant chez ESN Data, j'ai été missionnée par l'entreprise Sanitoral pour réaliser une mission de visualisation de données (dataviz).
+Consultant chez *ESN Data*, j'ai été missionnée par l'entreprise *Sanitoral* pour réaliser une mission de visualisation de données (dataviz).
 
 ![Logo Sanitorial](P7_Logo_SANITORIAL.jpg) 
 
