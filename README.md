@@ -6,6 +6,7 @@
 Consultant chez ESN Data, j'ai été missionnée par l'entreprise Sanitoral pour réaliser une mission de visualisation de données (dataviz).
 
 ![Logo Sanitorial](P7_Logo_SANITORIAL.jpg) 
+
 Ce projet consiste à créer un tableau de bord interactif permettant de suivre l’avancement de projets, identifier les retards et proposer une vision claire de l’état des tâches.
 
 Sanitorial est une société internationale qui fabrique et commercialise des soins bucco-dentaires.  
