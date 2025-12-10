@@ -2,7 +2,13 @@
 
 ## Contexte et objectifs
 
+Consultant chez ESN Data, j'ai été missionnée par l'entreprise Sanitoral pour réaliser une mission de visualisation de données (dataviz).
+![Logo ESN](P7_Logo_ESN.jpg)  
 Ce projet consiste à créer un tableau de bord interactif permettant de suivre l’avancement de projets, identifier les retards et proposer une vision claire de l’état des tâches.
+
+![Logo Sanitorial](P7_Logo_SANITORIAL.jpg) 
+Sanitorial est une société internationale qui fabrique et commercialise des soins bucco-dentaires.  
+Elle opère dans 4 régions : Europe occidentale, Europe de l'Est/Moyen-Orient/Afrique, Amérique du Nord et latine, Asie Pacifique. 
 
 ## Soft Skills
 - Traduire un besoin métier en solution visuelle  
